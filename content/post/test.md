@@ -16,4 +16,4 @@ c^d &\equiv (m^e)^d \pmod{n} \\
 \end{aligned}
 $$
 
-{{<externalLinkCard title="我的github" link="https://github.com/nanoyep" cover="https://img.ciao.de5.net/1770302861635.png">}}
+{{<externalLinkCard title="我的github" link="https://github.com/nanoyep" cover="https://github.com/favicon.ico">}}
