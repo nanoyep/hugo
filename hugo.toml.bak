@@ -1,4 +1,4 @@
-baseURL = 'http://blog.ciallonn.qzz.io/hugo/'
+baseURL = 'https://blog.ciallonn.qzz.io/'
 locale = 'en-us'
 title = 'nanoyep的博客'
 theme = "reimu"
