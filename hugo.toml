@@ -1,4 +1,4 @@
-baseURL = 'https://nanoyep.github.io/hugo'
+baseURL = 'https://blog.ciallonn.qzz.io/hugo/'
 locale = 'en-us'
 title = 'nanoyep的博客'
 theme = "reimu"

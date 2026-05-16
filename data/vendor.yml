@@ -1,5 +1,5 @@
-cdn_jsdelivr_gh: https://cdn.jsdelivr.net/gh/
-cdn_jsdelivr_npm: https://cdn.jsdelivr.net/npm/
+cdn_jsdelivr_gh: https://cdn.jsdmirror.com/gh/
+cdn_jsdelivr_npm: https://cdn.jsdmirror.com/npm/
 fastly_jsdelivr_gh: https://fastly.jsdelivr.net/gh/
 fastly_jsdelivr_npm: https://fastly.jsdelivr.net/npm/
 unpkg: https://unpkg.com/
@@ -27,8 +27,8 @@ js:
     src: webcache|@waline/client@2.15.8/dist/waline.mjs
     integrity: sha384-9sbqJjrfGjbkI6/PI4nU/MvBfEmkkPC4YK9I4zBeMIf1CVCZdCMH/KinBEAZII/5
   twikoo:
-    src: webcache|twikoo@1.6.44/dist/twikoo.all.min.js
-    integrity: sha384-kwWLC0HjeZZnVPqCJ1AncI8tsk+kQqF9TbAmCclcc9Z0hGkfgHRzeQZxmdmZhE0K
+    src: webcache|twikoo@1.7.9/dist/twikoo.all.min.js
+    integrity: sha384-Wz4nGV6YhkStGTLLq6tgGs9VxxA7zlIvBh8A9oSfVM2RbqToboFmVMdow9FHMdNB
   gitalk:
     src: webcache|gitalk@1.8.0/dist/gitalk.min.js
     integrity: sha384-kspnZUWBoSWwoJHa0hBCXYbHGbhvU/lcEH5O8eVbSDhbPwsiVUTp/aGX/z/5EuMA
